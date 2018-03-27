@@ -1,6 +1,6 @@
 # Pegasus-Mobile-Alerts
 
-![Pegasus](https://nc-pegasus.herokuapp.com/about)
+https://nc-pegasus.herokuapp.com/about
 
 Mobile Ether Transaction Alerts
 
